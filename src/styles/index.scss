@@ -12,8 +12,7 @@ body {
 
 .header {
   display: flex;
-  justify-content: end;
-  gap: 243px;
+  justify-content: space-between;
   height: 60px;
   font-family: $font-family;
   font-weight: 500;
